@@ -5,5 +5,5 @@
 "../services" "services"
 "../boundary" "services/boundary"
 "../clients" "clients"
-"../database_kano" "../database_kano"
+"../database" "../database"
 "../test" "test"
