@@ -5,5 +5,5 @@
 "../services" "services"
 "../boundary" "services/boundary"
 "../clients" "clients"
-"../database_ondo" "../database_ondo"
+"../database" "../database"
 "../test" "test"
