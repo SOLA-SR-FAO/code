@@ -8,3 +8,8 @@
 "../database" "../database"
 "../test" "test"
 "../database-crossriver" "../database-crossriver"
+"../database-jigawa" "../database-jigawa"
+"../database-kaduna" "../database-kaduna"
+"../database-kano" "../database-kano"
+"../database-kogi" "../database-kogi"
+"../database-ondo" "../database-ondo"
