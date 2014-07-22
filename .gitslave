@@ -7,3 +7,4 @@
 "../clients" "clients"
 "../database" "../database"
 "../test" "test"
+"../database-crossriver" "../database-crossriver"
