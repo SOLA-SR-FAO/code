@@ -7,7 +7,7 @@ common/messaging/
 services/
 test/
 ../database/
-../database-katsina/
+
 
 # Identifies the subfolders and files to ignore from the 
 # Subfolders to ignore
