@@ -14,3 +14,4 @@
 "../database-kogi" "../database-kogi"
 "../database-ondo" "../database-ondo"
 "../database-katsina" "../database-katsina"
+"../database/backup" "../database/backup"
