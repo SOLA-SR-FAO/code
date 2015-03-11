@@ -6,3 +6,4 @@
 "../boundary" "services/boundary"
 "../clients" "clients"
 "../test" "test"
+"../database" "database"
