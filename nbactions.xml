@@ -25,4 +25,13 @@
                 <Env.MAVEN_OPTS>-Xms256m -Xmx512m -XX:MaxPermSize=256m</Env.MAVEN_OPTS>
             </properties>
         </action>
+        <action>
+            <actionName>clean</actionName>
+            <packagings>
+                <packaging>*</packaging>
+            </packagings>
+            <goals>
+                <goal>clean</goal>
+            </goals>
+        </action>
     </actions>
